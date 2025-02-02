@@ -19,3 +19,7 @@ To build a Next Word Prediction model:
 
 7.improve the model by experimenting with different techniques and architectures.
 
+his iterative process allows businesses to develop accurate and efficient Next Word Prediction models that can be applied in various applications.
+
+So the process of building a Next Word Prediction model starts by collecting textual data that can be a vocabulary for our model. For example, the way you type on your smartphone’s keyboard becomes the vocabulary of the next word prediction model of your smartphone’s keyboard. In the same way, we need textual data for our model. I found an ideal dataset for this task based on the text of a book on Sherlock Holmes.
+
