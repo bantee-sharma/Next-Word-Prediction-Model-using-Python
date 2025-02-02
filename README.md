@@ -5,10 +5,17 @@ The Next Word Prediction models have a range of applications across various indu
 
 To build a Next Word Prediction model:
 
-start by collecting a diverse dataset of text documents, 
-preprocess the data by cleaning and tokenizing it, 
-prepare the data by creating input-output pairs, 
-engineer features such as word embeddings, 
-select an appropriate model like an LSTM or GPT, 
-train the model on the dataset while adjusting hyperparameters,
-improve the model by experimenting with different techniques and architectures.
+1.start by collecting a diverse dataset of text documents, 
+
+2.preprocess the data by cleaning and tokenizing it, 
+
+3.prepare the data by creating input-output pairs, 
+
+4.engineer features such as word embeddings, 
+
+5.select an appropriate model like an LSTM or GPT, 
+
+6.train the model on the dataset while adjusting hyperparameters,
+
+7.improve the model by experimenting with different techniques and architectures.
+
